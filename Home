@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+<title>cavetown</title>
+</head>
+<body>
+<div class="topnav">
+  <a class="active" href="#main">Main</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+</body>
